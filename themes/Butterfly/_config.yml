@@ -220,8 +220,8 @@ addtoany:
 # ------------------------------------
 disqus:
   enable: true
-  shortname:
-  count: false # dispaly comment count in top_img
+  shortname: https-soyouda-github-io
+  count: true # dispaly comment count in top_img
 
 # Disqus.js版評論系統，應對大陸長城的折中方案，兼容原版：https://github.com/SukkaW/DisqusJS
 # API 申請地址：https://disqus.com/api/applications/
